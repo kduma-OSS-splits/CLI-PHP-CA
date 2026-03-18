@@ -60,7 +60,7 @@
         },
         "composer-attribute-collector": {
             "include": [
-                "{vendor}/kduma/}"
+                "{vendor}/kduma/"
             ]
         }
     },
