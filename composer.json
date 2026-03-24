@@ -1,0 +1,22 @@
+{
+    "name": "kduma/php-ca",
+    "description": "PHP Certification Authority - CLI",
+    "keywords": [
+        "certificate-authority",
+        "pki",
+        "cli"
+    ],
+    "homepage": "https://opensource.duma.sh/apps/php-ca",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Krystian Duma",
+            "email": "git@krystian.duma.sh"
+        }
+    ], 
+    "bin": [
+        "builds/php-ca"
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
